@@ -5,8 +5,11 @@
     How would you change the code to meet the requirement?
 
 """
+Modules operator
 
+Ans=15%4
 
+print(Ans)
 
 
 
